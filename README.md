@@ -2,6 +2,8 @@
 
 🇬🇧 [Read in English](README.en.md)
 
+English version: [README.en.md](README.en.md) (archivos en `en/`).
+
 Scripts para comparar cuatro agentes de programación de terminal (Claude Code, Codex CLI, Antigravity CLI o Gemini CLI
 y Cursor CLI) con **la misma tarea**, pruebas ocultas que el agente no ve y 5 repeticiones por herramienta y tarea.
 
@@ -18,7 +20,7 @@ Página con la metodología completa: [ctrlia.dev (ES)](https://ctrlia.dev/recet
 - `lote.sh`: todas las herramientas × T1-T3 × 5 repeticiones, intercaladas.
 - `tareas/T1.md`, `T2.md`, `T3.md`: el texto de cada tarea, igual para todas las herramientas (borrador: el repositorio de
   prueba de unas 600 líneas en Python todavía no está publicado).
-- `comparativa.md` / `comparativa.en.md`: la tabla comparativa.
+- `comparativa.md` / `en/comparativa.md`: la tabla comparativa.
 
 ## Cómo usarlo
 
